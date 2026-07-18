@@ -42,7 +42,7 @@ Ensure you have Python 3.10+ installed.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AKM7622/SecureVault.git
+   git clone https://github.com/preeticse001-deep/SecureVault.git
    cd SecureVault
    ```
 
