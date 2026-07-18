@@ -1,2 +1,2 @@
 cryptography
-PyQT6
+PyQt6
